@@ -97,9 +97,9 @@
 }
 
 .image-with-text--overlap .image-with-text__content {
-  transform: translate(0 , -3rem);
+  /* transform: translate(0 , -3rem); */
   width: 90%;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 750px) {
@@ -134,14 +134,14 @@
 
   .image-with-text--overlap .image-with-text__text-item {
     display: flex;
-    padding: 3rem 0; 
+    padding: 3rem 0;
   }
-  
+
   .image-with-text--overlap .image-with-text__content {
     height: auto;
-    width: calc(100% + 4rem);
-    min-width: calc(100% + 4rem);
-    transform: translate(-4rem, 0);
+    width: 100%;
+    min-width: 100%;
+    /* transform: translate(-4rem, 0); */
   }
 
   .image-with-text--overlap .image-with-text__grid--reverse .image-with-text__content {
