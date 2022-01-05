@@ -1,0 +1,197 @@
+{
+  "sections": {
+    "1641378040e665c2b5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1641378040dfb48848-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Below Eleven?",
+            "heading_size": "h1"
+          }
+        },
+        "1641378040dfb48848-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Below Eleven is a store we started on Jan 3rd, 2022.<\/p><p><\/p><p>The idea is simple: Its aim is to combine popular products with fast shipping times and a low price to consumers, done by talking to many manufacturers in order to get products that are both high quality at a reasonable cost.<\/p><p>All the products marked with the logo you see to the left will have their price set <strong>below eleven<\/strong> <strong>percent <\/strong>in profit after shipping and taxes.<\/p><p><\/p><p>To see the list available, please see the Below Eleven Products Collection.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1641378040dfb48848-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "The Eleven Collection",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641378040dfb48848-0",
+        "1641378040dfb48848-1",
+        "1641378040dfb48848-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BelowEleven3.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "16413783324305b03b": {
+      "type": "collection-list",
+      "blocks": {
+        "16413783325f6c21d4-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "16413783325f6c21d4-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "16413783325f6c21d4-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "16413783325f6c21d4-0",
+        "16413783325f6c21d4-1",
+        "16413783325f6c21d4-2"
+      ],
+      "settings": {
+        "title": "Eleven Collection",
+        "image_ratio": "square",
+        "color_scheme": "background-2",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "16413783298f5f338d": {
+      "type": "rich-text",
+      "blocks": {
+        "1641378329d130c559-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Other Collectibles",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1641378329d130c559-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collectibles",
+        "collection": "pokemon",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "16413783763d718a80": {
+      "type": "collection-list",
+      "blocks": {
+        "1641378376443f1f44-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vintage-1st-edition"
+          }
+        },
+        "1641378376443f1f44-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pokemon"
+          }
+        },
+        "1641378376443f1f44-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yugioh"
+          }
+        }
+      },
+      "block_order": [
+        "1641378376443f1f44-0",
+        "1641378376443f1f44-1",
+        "1641378376443f1f44-2"
+      ],
+      "settings": {
+        "title": "Collections Sorted By Type",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "1641376813129c6c80": {
+      "type": "collection-list",
+      "blocks": {
+        "16413768133a0e00bb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "under-300"
+          }
+        },
+        "16413768133a0e00bb-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "300-to-1000"
+          }
+        },
+        "a5094a32-b757-487a-a729-5c11019ff086": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "over-1000"
+          }
+        }
+      },
+      "block_order": [
+        "16413768133a0e00bb-1",
+        "16413768133a0e00bb-2",
+        "a5094a32-b757-487a-a729-5c11019ff086"
+      ],
+      "settings": {
+        "title": "Collectibles Sorted By Price",
+        "image_ratio": "portrait",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": true,
+        "show_view_all": true
+      }
+    }
+  },
+  "order": [
+    "1641378040e665c2b5",
+    "16413783324305b03b",
+    "16413783298f5f338d",
+    "featured_products",
+    "16413783763d718a80",
+    "1641376813129c6c80"
+  ]
+}
